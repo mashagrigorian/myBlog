@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "1Q84",
+      "body": "1Q84 is a novel written by Japanese writer Haruki Murakami, first published in three volumes in Japan in 2009–10.",
+      "author": "Haruki Murakami",
+      "id": 1
+    },
+    {
+      "title": "Oscar and the Lady in Pink!",
+      "body": "Oscar and the Lady in Pink is a novel written by Éric-Emmanuel Schmitt, the third part of the series «Cycle de l'invisible», published in 2002.",
+      "author": "Éric-Emmanuel Schmitt",
+      "id": 2
+    }
+  ]
+}
